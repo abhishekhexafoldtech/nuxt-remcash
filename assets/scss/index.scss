@@ -1,0 +1,24 @@
+@import "login/login.scss";
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+
+:root {
+    --grey-bg: #f5f7f8;
+    --white: #fff;
+    --black: #000;
+    --grey: #8392ab;
+    --violet: #5e72e4;
+    --sidemenu-bg: linear-gradient(180deg, #1c2437 0%, #1b3b4e 100%);
+    --menu-grey: #b8b8b8;
+    --primary-font: "Montserrat", sans-serif;
+    --hover-bg: #384552;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: var(--primary-font);
+}
+
+#app-layout {
+    background-color: #F8F9FE;
+}

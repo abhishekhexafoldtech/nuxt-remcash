@@ -10,22 +10,17 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "^3.10.0",
-    "sass": "^1.70.0",
-    "vite-plugin-vuetify": "^2.0.1",
-    "vue": "^3.4.15",
-    "vue-router": "^4.2.5",
-    "vuetify": "^3.5.2"
+    "@element-plus/nuxt": "^1.0.7",
+    "nuxt": "^3.9.3",
+    "vue": "^3.4.14",
+    "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "-": "^0.0.1",
-    "@egjs/vue3-flicking": "^4.11.2",
-    "@fortawesome/fontawesome-svg-core": "^6.5.1",
-    "@fortawesome/free-solid-svg-icons": "^6.5.1",
-    "@fortawesome/vue-fontawesome": "^3.0.6",
-    "@mdi/font": "^7.4.47",
-    "chart.js": "^4.4.1",
-    "D": "^1.0.0",
-    "vue-chartjs": "^5.3.0"
+    "@pinia/nuxt": "^0.5.1",
+    "axios": "^1.6.7",
+    "js-cookie": "^3.0.5",
+    "pinia": "^2.1.7",
+    "sass": "^1.71.0",
+    "sass-loader": "^14.1.0"
   }
 }
